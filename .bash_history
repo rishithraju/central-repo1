@@ -269,3 +269,24 @@ muppalarishithvarma@gmail.com
 git remote add origin https://github.com/rishithraju/central-repo1.git
 yum update -y
 git remote add origin https://github.com/rishithraju/central-repo1.git
+yum update -y
+ls
+git status
+git config --list
+git init
+git status
+git add .
+git status
+git commit -m "work"
+git status
+git remote add origin https://github.com/rishithraju/central-repo1
+git branch -M main
+git push -u origin main
+git push origin main 
+git push -u origin main
+git ststus
+git rebase origin/main
+git fetch origin
+git merge origin/main
+git rebase origin/main
+git push origin main
