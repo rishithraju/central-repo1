@@ -290,3 +290,183 @@ git fetch origin
 git merge origin/main
 git rebase origin/main
 git push origin main
+logout
+sudo -
+sudo su -
+exit
+git remote add origin https://github.com/rishithraju/central-repo1.git
+git branch -M main
+git init
+pwd
+git add .
+git commit -m "delaying"
+git push origin main
+yum update -y
+git push origin main
+git branch
+git chechout USA
+git checkout USA
+git branch
+ls
+cd sir/
+cd ../
+ls
+git branch -d USA
+git branch -d main
+git branch
+ls
+yum update -y
+git main
+git --version
+docker --version
+ls
+git rm -rf 1.class
+ls
+git rm -rf rajfile testfile 
+ls
+git rm -rf demo2 1.txt
+ls
+yum update -y
+sudo su
+yum update -y
+docker images
+docker login
+yum update -y
+docker images
+docker login
+ls -a
+docker tag ubuntu [200~/newubuntuimage
+docker images
+docker tag ubuntu muppalarishith0511/newubuntuimage
+docker push 
+docker push muppalarishith0511/newubuntuimage
+docker ps -a
+docker run -td --name webcontainer ubuntu
+docker rm webcontainer
+docker stop webcontainer
+exit
+docker ps-a
+yum update -y
+docker ps -a
+docker rm webcontainer
+docker ps -a
+docker run -td --name -p80:80 ubuntu
+docker run -td --name webcontainer -p80:80 ubuntu
+docker exec -it webcontainer /bin/bash
+yum update -y
+docker ps -a
+ls
+cat Dockerfile
+ls
+docker images
+docker rm -rf 1.java 2.java harifile myfile santhosh 
+docker rm harifile
+rm -rf harifile
+ls
+rm -rf 1.java 2.java laptop pavan santhosh
+ls
+rm -rf 2.class 2.txt demofile myfile signin 'testfile from testbranch'
+ls
+rm -rf sir
+ls
+docker images
+docker build -t testimage .
+docker images
+docker ps -a
+docker run -it --name testcontainer testimage 
+ls
+cat Dockerfile
+nano Dockerfile
+ls
+docker ps -a
+docker start testcontainer
+docker attach testcontainer
+ls
+cat Dockerfile
+docker run -it --name manoj testfile 
+docker  ps  -a
+ls
+cat Dockerfile
+docker images
+docker run -it --name manoj testimage
+docker build -t testimage .
+docker start manoj
+docker attach manoj
+docker ps -a
+docker start testcontainer
+docker attach testcontainer
+docker images
+exit
+yum update -y
+docker images
+docker nano Dockerfile
+nano Dockerfile
+ls
+cat Dockerfile
+ls
+nano rajfile
+ls
+mkdir -p dir/dirb/dirc
+ls
+tree
+yum install tree -a
+yum install tree -y
+tree
+ls
+tar -cvzf demo.tar.gz dir
+ls
+docker build -t mytestimage .
+docker images
+docker run -it --name hlo mytestimage
+ls
+cat Dockerfile
+cat dir
+cat dir/
+cd dir/
+ls
+cd dirb/
+ls
+cd dirc/
+ls
+cd ../
+cd ..
+ls
+cd demo.tar.gz/
+cat demo.tar.gz/
+cat demo.tar.gz
+xterm-256colorexit
+cp Dockerfile swhizzDockerfile
+ls
+cat swhizzDockerfile
+docker images
+docker ps -a
+ls
+docker build -t swhizzimage . -f swhizzDockerfile
+docker images
+docker run -it --name swhizzcontainer swhzzimage
+docker ps -a
+docker run -it --name swhizzcontainer swhizzimage
+ls
+yum install git -y
+docker images
+which docker
+docker ps -a
+docker images
+yum update -y
+which docker 
+docker ps -a
+docker images
+docker ps -a
+docker images
+yum install git -y
+git --version
+git --docker
+docker --version
+docker 
+docker images
+docker ps-a
+docker ps -a
+yum update -y
+nano  Dockerfile
+ls
+cat Dockerfile
