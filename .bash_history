@@ -290,6 +290,7 @@ git fetch origin
 git merge origin/main
 git rebase origin/main
 git push origin main
+<<<<<<< HEAD
 logout
 sudo -
 sudo su -
@@ -470,3 +471,126 @@ yum update -y
 nano  Dockerfile
 ls
 cat Dockerfile
+=======
+git init
+git nano
+nano signin
+ls
+git add .
+git commit -m "succes"
+git push origin main
+git branch hlo
+git status
+git checkout hlo
+git branch
+git checkout main
+git branch
+ls
+git branch -D main
+pwd
+git branch hlo
+git checkout hlo
+git branch -D main
+git branch
+ls
+git branch USA
+git branch
+git checkout USA
+nano laptop
+ls
+cat laptop
+git add .
+git commit -m "money"
+git push origin main
+ls
+cat laptop
+git branch
+git push origin main USA
+ls
+git branch
+ls
+touch hero
+ls
+git checkout hlo
+git branch
+ls
+cat hero
+touch ramcharan
+git checkout USA
+LS
+ls
+cat ramcharan
+nano ramcharan
+ls
+cat ramcharan
+git status
+git checkout hlo
+ls
+cat ramcharan
+git branch
+git checkout USA
+ls
+cat ramcharan
+git checkout USA
+nano dallas
+ls
+cat dallas
+git checkout hlo
+cat dallas
+git add .
+git commit -m "book"
+git push origin main
+git remote add origin https://github.com/rishithraju/central-repo1.git
+git push -u origin main
+git branch -M main
+git push originmain
+ls
+git remote add origin  https://github.com/rishithraju/central-repo1.git
+git branch -M main
+git add .
+git commit -m "random"
+git push -u origin main
+git --version
+git --docker
+docker --version
+git --oneline
+git -oneline
+git log
+git --oneline
+exit
+git --oneline
+git log
+which docker
+docker ps -a
+docker images
+docker run -it muppala 
+docker run -it muppala ubuntu
+systemctl enable docker
+docker run -it ubuntu /bin/bash
+docker ps -a
+docker run -it --name onerishith ubuntu
+yum update -y
+apt update -y
+docker ps -a
+docker start onerishith
+docker attach onerishith
+docker ps -a
+docker images
+ls
+docker rmi ubuntu
+docker images
+docker rmi jenkins
+pwd
+docker rmi 112170efb091 
+docker images
+docker rmi 3db8720ecbf5 
+docker rmi 3db8720ecbf5
+docker ps -a
+docker rm onerishith manoj hlocont
+docker rm webcontainer optimistic_gagarin
+ls
+docker p[s -a
+docker ps -a
+docker images
+exit
+>>>>>>> e9ca066afe687011659a10fdc145ae896930b0bd
