@@ -594,3 +594,55 @@ docker ps -a
 docker images
 exit
 >>>>>>> e9ca066afe687011659a10fdc145ae896930b0bd
+yum update -y
+ls
+which git
+git --version
+git touch mama
+touch mama
+ls
+cat mama
+nano mama
+ls
+cat mama
+git config
+git init
+git status
+git add .
+git status
+git commit -m "protection"
+git status
+git push -m mama
+ls
+git push -u origin main
+git log
+ls
+git remote add origin https://github.com/rishithraju/central-repo.git
+git branch -M main
+git status
+git push -u origin main
+git pull
+git branch --set-upstream-to=origin/<branch> main
+git bash
+git -bash
+git push -u origin main
+git pull origin main
+git config pull.rebase false
+git pull --ff-only
+git pull origin main
+git pull --rebase origin main
+git add .
+git status
+git commit -m "love"
+git config --global --edit
+ls
+git add .
+git commit -m "love"
+git push -u origin main
+ls
+touch pavan
+nano pavan
+ls
+git add .
+git commit -m "Reddy topu" 
+git push -u origin main
